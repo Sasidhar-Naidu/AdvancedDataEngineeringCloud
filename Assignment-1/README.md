@@ -115,9 +115,9 @@ Users access visualizations through web interfaces or embedded dashboards.
 
 
 #### RESTful API Integration
-API Gateway: Exposes endpoints for data ingestion.
-Ingestion Services: Exposes endpoints for data validation and preprocessing.
-Data Storage: Exposes endpoints for data retrieval and storage operations.
-Data Processing: Exposes endpoints for initiating ETL/ELT jobs.
-Aggregation Services: Exposes endpoints for data aggregation and summarization tasks.
-Visualization Tools: Exposes endpoints for data retrieval for visualization.
+- API Gateway: Exposes endpoints for data ingestion.
+- Ingestion Services: Exposes endpoints for data validation and preprocessing.
+- Data Storage: Exposes endpoints for data retrieval and storage operations.
+- Data Processing: Exposes endpoints for initiating ETL/ELT jobs.
+- Aggregation Services: Exposes endpoints for data aggregation and summarization tasks.
+- Visualization Tools: Exposes endpoints for data retrieval for visualization.
