@@ -108,4 +108,4 @@ Streamlit is an open-source app framework used to create custom web applications
 
 - [lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 - [Api GateWay](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
-- [Api GateWay](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+- [AmazonRDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
