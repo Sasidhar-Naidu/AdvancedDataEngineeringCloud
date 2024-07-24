@@ -3,6 +3,20 @@
 ## Overview
 This project presents "HealthRDS Monitor Pro (MPRE)," a comprehensive system for managing patient data using Amazon RDS, AWS Lambda, REST API, and Streamlit. Amazon RDS provides secure and scalable storage for patient records, while AWS Lambda automates data processing updates on patient movements.
 
+# Author
+
+## Group - 5
+
+- Name: Sasidhar Naidu
+- Roll No: G23AI1034
+
+- Name: Bruhathi Reddy
+- Roll No: G23AI1009
+
+- Name: Swaroop Magatapalli
+- Roll No: G23AI1053
+
+
 ## Architecture Design
 ![RestFulAPiSercices](Picture1.png)
 
