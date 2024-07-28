@@ -5,8 +5,13 @@ This repository contains the implementation of the Assignments and Project for A
 
 ## Author
 
+### Group - 5
 - Name: Sasidhar Naidu
 - Roll No: G23AI1034
+- Name: Bruhathi Reddy
+- Roll No: G23AI1009
+- Name: Swaroop Magatapalli
+- Roll No: G23AI1053
 
 ## Assignments
 
